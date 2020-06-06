@@ -8,8 +8,8 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
     defaultConfig {
-        applicationId "com.androcrush.todo"
-        minSdkVersion 25
+        applicationId "pandey.shubham.todo"
+        minSdkVersion 19
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"

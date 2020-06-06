@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.androtutsk.todo">
+    package="pandey.shubham.todo">
 
     <application
         android:icon="@mipmap/ic_launcher"
@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning"
         >
-        <activity android:name="com.androtutsk.todo.MainActivity"
+        <activity android:name="pandey.shubham.todo.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name="com.androtutsk.todo.AddDataActivity"
+        <activity android:name="pandey.shubham.todo.AddDataActivity"
             android:screenOrientation="portrait">
         </activity>
     </application>

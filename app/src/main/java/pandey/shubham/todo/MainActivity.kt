@@ -1,4 +1,4 @@
-package com.androtutsk.todo
+package pandey.shubham.todo
 
 import android.content.Context
 import android.content.Intent
@@ -8,6 +8,7 @@ import android.util.Log
 import android.view.View
 import android.view.ViewGroup
 import android.widget.*
+import pandey.shubham.todo.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

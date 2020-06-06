@@ -1,9 +1,10 @@
-package com.androtutsk.todo
+package pandey.shubham.todo
 
 import android.content.ContentValues
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import pandey.shubham.todo.R
 import kotlinx.android.synthetic.main.add_data.*
 
 class AddDataActivity:AppCompatActivity()
